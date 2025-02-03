@@ -95,29 +95,29 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** I learned that Python and Java, at least at beginner levels, are pretty similar. I was able to use some Python functions I did know, and the course notes and links throughout the assignment helped me navigate issues. 
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** I struggled with the numpy cell, I properly installed and called for it, however I kept getting error messages and ended up not being able to figure it out. 
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** Numpy, and I definitely appreciate the links to help with certain code, it can be a lot to remember so refreshers and helpful tips are very nice to have.
 - .
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+Around 3 hours total, I did a bit in the morning and a bit at night, but I had an issue with my changes not saving correctly and troubleshooting that was the most time consuming part. I also had to do a bit of outside research because I haven't fully learned python, only Java.
 
-**If I were to do this assignment again, I would:** (repeat as needed)
+**If I were to do this assignment again, I would:** Re-organize my commits, at the beginning of the assignment I didn't really know what I was doing and I was making empty commits. I also would re-word them to say which prompt specifically that I completed. My commits were "Completed #1", "Completed #2", but since the questions werent actually numbered, someone may get confused on the changes I made.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [18] out of 20. This is because I was dedicated in learning the material and completing the assignment while not fluently knowing Python, but I couldnt figure numpy out.
 
 --------------------
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** Course notes, included links in the assignment, https://codeop.tech/blog/python-conversion-cheatsheet/ , 
 - .
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** The Instructor
 - . 
 
 ---
